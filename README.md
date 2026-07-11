@@ -23,3 +23,5 @@ be headed. Please don't file Zed bugs here — those go to
   text (Parley), selection, the inspector, RTL
 - [Mobile](projects/mobile.md) — touch input, the gesture arena, the iOS
   platform
+- [Embedded plugin platform](projects/embedded.md) — GPUI plugins in Wasm
+  components, shared entities, capabilities, the Zed extension model

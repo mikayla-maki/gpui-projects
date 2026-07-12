@@ -1,12 +1,11 @@
 # gpui-projects
 
-Mikayla's personal working notes and task queue for her work on
-[GPUI](https://github.com/zed-industries/zed/tree/main/crates/gpui), Zed.
+My personal working notes and task queue for
+[GPUI](https://github.com/zed-industries/zed/tree/main/crates/gpui).
 
 **This is not an official Zed Industries roadmap.** It's one person's todo
 list, kept public so people can see what I'm working on and where GPUI might
-be headed. Please don't file Zed bugs here — those go to
-[zed-industries/zed](https://github.com/zed-industries/zed/issues).
+be headed. 
 
 ## How this repo works
 
